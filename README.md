@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, I am a backend development apprenticeship in FunctionUp and I am looking for a full-time opportunity as soon as possible. I have completed courses on Back-end development skills like  Javascript, node.js, mongoose,express, and github from back-end development  Bootcamp by function. I am open to learning and working on any technology. I am looking for an opportunity to discuss and join your team.<br>Regards,<br>chanda 
+Hii, I am doing backend development apprenticeship in FunctionUp and I am looking for a full-time opportunity as soon as possible. I have completed courses on Back-end development skills like  Javascript, node.js, mongoose,express, and github from back-end development  Bootcamp by function. I am open to learning and working on any technology. I am looking for an opportunity to discuss and join your team.<br>Regards,<br>chanda 
 
 
 ## 🌐 Socials:
