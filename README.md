@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Chanda jha and i am doing backend development apprenticeship in function up where i have completed back end development course tutorials on node js, mono db, express,javascript. I have also completed many assignments, quizzes and projects based on these skills and now i am  looking for professional experience in this field..<br>Regards,<br>chanda 
+I am Chanda jha and i am doing backend development apprenticeship in function up where i have completed back end development course tutorials on node js, mono db, express,javascript. I have also completed many assignments, quizzes and projects based on these skills and now i am  looking for professional experience in this field
 
 
 ## 🌐 Socials:
